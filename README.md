@@ -9,7 +9,7 @@ Cocoapods
 You can follow the steps in this link to install Cocoapods.
 [Link](https://cocoapods.org/)
 
-After installing cocoapods and installing it in the project, you can make the project ready by typing abc in the podfile.
+After installing cocoapods and installing it in the project, you can make the project ready by typing pod 'Alamofire' in the podfile.
 
 ## Some not working functions
 The star in the navigation bar is displayed for visual purposes only. I worked on it but couldn't find the solution.
